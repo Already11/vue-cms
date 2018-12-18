@@ -1,6 +1,7 @@
 // 入口文件
 import Vue from "vue"
 import 'bootstrap/dist/css/bootstrap.css'
+import '../lib/hello-mui/css/mui.min.css'
 import app from "./App.vue"
 import { Header } from 'mint-ui'
 import 'mint-ui/lib/style.css'
